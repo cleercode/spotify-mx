@@ -1,0 +1,8 @@
+{
+  "name": "spotify-mx",
+  "version": "0.0.1",
+  "dependencies": {
+      "stylus": "0.15.1",
+      "uglify-js": "1.0.7"
+  }
+}
